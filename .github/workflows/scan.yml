@@ -1,0 +1,86 @@
+name: Scan markets
+
+# Every 30 minutes: scan Kalshi, save results to the `data` branch, rebuild the dashboard on GitHub Pages.
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scanner/**", "web/**", "config.toml", ".github/workflows/scan.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out the data branch
+        run: |
+          git config --global user.name "pms-bot"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch origin data:data; then
+            git worktree add data-branch data
+          else
+            git worktree add --orphan -b data data-branch
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Test the bet math
+        working-directory: scanner
+        run: |
+          pip install -q pytest
+          python -m pytest -q
+
+      - name: Scan markets
+        working-directory: scanner
+        run: python -m pms.scan --out ../data-branch
+
+      - name: Save results to the data branch
+        working-directory: data-branch
+        run: |
+          git add -A
+          git commit -q -m "Scan $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
+          for i in 1 2 3 4; do
+            git push origin data && exit 0
+            git pull --rebase -X theirs origin data || true
+            sleep $((i * 5))
+          done
+          exit 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Build the dashboard
+        working-directory: web
+        run: |
+          npm ci --no-audit --no-fund
+          npm run build
+          mkdir -p dist/data
+          cp ../data-branch/*.json dist/data/
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,39 @@
+# Scanner settings. Change these to tune what counts as an "easy win".
+# After editing, run:  python -m pms.scan --dry-run   (from scanner/) to see how many picks qualify.
+
+[bet]
+stake = 100.0                     # dollars per hypothetical bet
+
+[fees]
+# "robinhood": flat per-contract commission + exchange fee (Robinhood's published pricing)
+# "kalshi":    Kalshi's quadratic taker fee, if you trade on Kalshi directly
+model = "robinhood"
+commission_per_contract = 0.01
+exchange_fee_per_contract = 0.01
+kalshi_taker_rate = 0.07
+
+[favorites]
+# High-probability contracts: buy the side the market already expects to win.
+enabled = true
+min_price = 0.85                  # 85¢ = market implies ~85% chance
+max_price = 0.97                  # above ~97¢ fees eat almost all the profit
+max_days_to_settle = 7
+min_volume_24h = 500              # contracts traded in the last 24h (skip dead markets)
+max_spread = 0.03                 # ask - bid on the side you'd buy
+max_per_event = 3                 # cap picks from one event (e.g. a golf field)
+min_profit = 1.00                 # skip picks that make less than this on the stake, after fees
+
+[arbitrage]
+# Buy every outcome of a mutually exclusive event for less than $1 total.
+enabled = true
+max_days_to_settle = 60
+min_profit = 0.50
+min_volume_24h = 10               # per leg
+
+[output]
+max_opportunities = 200           # how many picks to keep in latest.json
+
+[categories]
+# Leave empty to include everything; otherwise only these Kalshi categories.
+include = []
+exclude = []
