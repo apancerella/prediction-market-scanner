@@ -81,7 +81,11 @@ Then ask GitHub to rebuild the dashboard now (otherwise the next half-hourly sca
 `gh api -X POST repos/apancerella/prediction-market-scanner/actions/workflows/scan.yml/dispatches -f ref=main`
 (if that's refused, that's fine; say the dashboard updates within 30 minutes).
 
-## 5. Finish
+## 5. Update the Claude artifact
+Follow the `publish-artifact` skill to republish the dashboard (with your new opinions) to the user's
+Claude artifact.
+
+## 6. Finish
 End with a short summary: picks reviewed, Strong picks (outcome, price, $100 profit if it wins, why), and
 anything notable to avoid. Notifications are off by default: don't send any unless this session's prompt
 says to.

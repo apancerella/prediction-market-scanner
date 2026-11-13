@@ -20,7 +20,10 @@ Claude. It never places trades.
 `main` holds code only. Generated JSON lives on the orphan **`data` branch** (`latest.json`, `picks.json`,
 `opinions.json`), so scans don't clutter history. The workflow copies those files into the built site.
 The daily review (`opinions.json`) is written by a scheduled Claude Code session at about 8:45 AM and
-5:45 PM ET using the `daily-review` skill.
+5:45 PM ET using the `daily-review` skill, which then republishes the dashboard as a Claude artifact
+(https://claude.ai/artifact/YQzrDcWQSEPMtHqzxsHk35) with the `publish-artifact` skill. The artifact is a
+snapshot: `web/scripts/build-artifact.mjs` inlines the built app and the data into one page, because
+artifacts can't fetch from other sites.
 
 ## Commands
 ```bash
@@ -38,4 +41,4 @@ cd web && npm run build                           # type-check + production buil
 - Keep the scanner dependency-free (stdlib) so the Action stays fast and reliable.
 
 ## Skills
-`scan`, `bet-math`, `kalshi-api`, `add-strategy`, `track-record`, `daily-review` in `.claude/skills/`.
+`scan`, `bet-math`, `kalshi-api`, `add-strategy`, `track-record`, `daily-review`, `publish-artifact` in `.claude/skills/`.

@@ -6,7 +6,14 @@ import { Sparkline } from "./Sparkline";
 type Tab = "picks" | "record" | "how";
 type Sort = "likely" | "soonest" | "profit" | "return";
 
+// The Claude artifact build embeds the data in the page (artifacts can't fetch other sites).
+const EMBEDDED = (window as unknown as { __PMS_DATA__?: Record<string, unknown> }).__PMS_DATA__;
+
 async function getJson<T>(path: string): Promise<T | null> {
+  if (EMBEDDED) {
+    const name = path.split("/").pop()!.replace(".json", "");
+    return (EMBEDDED[name] as T) ?? null;
+  }
   try {
     const r = await fetch(`${path}?t=${Date.now()}`, { cache: "no-store" });
     return r.ok ? ((await r.json()) as T) : null;

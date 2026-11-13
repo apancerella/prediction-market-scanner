@@ -20,7 +20,8 @@ shows what a **$100 bet** on each would win (and lose), and gets a **twice-daily
   notifications: check the dashboard when you want.
 
 ## Dashboard
-Published to GitHub Pages by the workflow: `https://apancerella.github.io/prediction-market-scanner/`
+- GitHub Pages (updates every scan): `https://apancerella.github.io/prediction-market-scanner/`
+- Claude artifact (updates after each Claude review, twice a day): private to your Claude account.
 
 ## Tuning
 Edit [`config.toml`](config.toml) (minimum price, days to settle, liquidity, fees, categories). Push to `main`
