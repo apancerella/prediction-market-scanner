@@ -12338,7 +12338,12 @@
      0.97
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 1.01,
+    "staked": 99.99
+   },
    "last_seen": "2026-11-12T12:27:56+00:00",
    "last_price": 0.97
   },
@@ -21567,7 +21572,12 @@
      0.93
     ]
    ],
-   "result": null,
+   "result": {
+    "won": false,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": -99.91,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-16T07:10:11+00:00",
    "last_price": 0.93
   },
@@ -36502,7 +36512,12 @@
      0.97
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-14T16:30:04+00:00",
    "last_price": 0.97
   },
@@ -54346,7 +54361,12 @@
      0.97
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 1.01,
+    "staked": 99.99
+   },
    "last_seen": "2026-11-14T10:02:50+00:00",
    "last_price": 0.97
   },
@@ -55086,10 +55106,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXBTCD-26NOV1406-T66899.99:yes": {
@@ -57741,11 +57765,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.94
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.94
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXBTC-26NOV2017-B67750:no": {
    "id": "fav:KXBTC-26NOV2017-B67750:no",
@@ -75777,11 +75805,15 @@
     [
      "2026-11-16T17:20:40+00:00",
      0.9
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.85
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-16T17:20:40+00:00",
-   "last_price": 0.9
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.85
   },
   "fav:KXATPCHALLENGERMATCH-26NOV15JONMOC-MOC:no": {
    "id": "fav:KXATPCHALLENGERMATCH-26NOV15JONMOC-MOC:no",
@@ -79668,10 +79700,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXNCAAFOT-26NOV14MISSOKLA-1:no": {
@@ -81365,10 +81401,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.94
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.94
   },
   "fav:KXUEFANLGAME-26NOV15FRATUR-TUR:no": {
@@ -85778,10 +85818,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXBBLTOTAL-26NOV150900TRISKY-200:no": {
@@ -96297,10 +96341,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXNHLGOAL-26NOV15FLADAL-DALRFAKSA12-1:no": {
@@ -98357,10 +98405,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXNBA3PT-26NOV15ATLMIL-ATLLDORT0-4:no": {
@@ -98458,10 +98510,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXNHLTOTAL-26NOV15EDMPHI-10:no": {
@@ -99238,7 +99294,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 5.25,
+    "staked": 99.75
+   },
    "last_seen": "2026-11-17T18:23:29+00:00",
    "last_price": 0.96
   },
@@ -100859,10 +100920,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXSERIEATOTAL-26NOV22BFCUDI-6:no": {
@@ -100921,10 +100986,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXT20MATCH-26NOV160030ASSAMMP-ASSAM:no": {
@@ -107017,11 +107086,15 @@
     [
      "2026-11-17T18:23:29+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-17T18:23:29+00:00",
-   "last_price": 0.96
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXATPCHALLENGERMATCH-26NOV16DODTAB-TAB:yes": {
    "id": "fav:KXATPCHALLENGERMATCH-26NOV16DODTAB-TAB:yes",
@@ -109703,10 +109776,14 @@
     [
      "2026-11-16T17:20:40+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-16T17:20:40+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXNCAAFTOTAL-26NOV20CLEMDUKE-25:yes": {
@@ -113346,10 +113423,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXNBASPREAD-26NOV16PHIBKN-BKN14:no": {
@@ -114791,10 +114872,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXBTCD-26NOV2017-T70499.99:no": {
@@ -116483,10 +116568,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXBTCD-26NOV1717-T61999.99:yes": {
@@ -117764,10 +117853,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXPGATOUR-THRC26-BBRO:no": {
@@ -119058,7 +119151,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-17T08:58:32+00:00",
    "last_price": 0.96
   },
@@ -120683,10 +120781,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXNCAAFSPREAD-26NOV19RICETEM-RICE18:no": {
@@ -120898,10 +121000,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXEREDIVISIEGAME-26NOV22TWEWIL-TIE:no": {
@@ -121032,10 +121138,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXBTC-26NOV1704-B64250:yes": {
@@ -121677,11 +121787,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
   },
   "fav:KXVTBGAME-26NOV181130SAMMBA-MBA:yes": {
    "id": "fav:KXVTBGAME-26NOV181130SAMMBA-MBA:yes",
@@ -121799,11 +121913,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.93
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.93
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
   },
   "fav:KXRT-HUN-85:no": {
    "id": "fav:KXRT-HUN-85:no",
@@ -122007,7 +122125,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 5.25,
+    "staked": 99.75
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.95
   },
@@ -123087,7 +123210,12 @@
      0.97
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 1.01,
+    "staked": 99.99
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.97
   },
@@ -124067,11 +124195,15 @@
     [
      "2026-11-17T18:23:29+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.967
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-17T18:23:29+00:00",
-   "last_price": 0.97
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.967
   },
   "fav:KXBTCD-26NOV2017-T69999.99:no": {
    "id": "fav:KXBTCD-26NOV2017-T69999.99:no",
@@ -124371,11 +124503,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.968
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.969
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.968
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.969
   },
   "fav:KXITFMATCH-26NOV17MARLIM-LIM:no": {
    "id": "fav:KXITFMATCH-26NOV17MARLIM-LIM:no",
@@ -124419,7 +124555,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.96
   },
@@ -124631,7 +124772,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T01:13:15+00:00",
    "last_price": 0.96
   },
@@ -125426,10 +125572,14 @@
     [
      "2026-11-17T18:23:29+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-17T18:23:29+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXNFLSFTY-26NOV19INDHOU-Y:no": {
@@ -125472,10 +125622,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXNFLTOTAL-26NOV22JACNYG-68:no": {
@@ -125518,10 +125672,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXLOWTTTN-26NOV18-T27:no": {
@@ -125602,10 +125760,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXAAAGASW-26NOV23-3.6000:yes": {
@@ -125850,7 +126012,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": false,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": -99.91,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-17T18:23:29+00:00",
    "last_price": 0.95
   },
@@ -126063,7 +126230,12 @@
      0.94
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.94
   },
@@ -126985,10 +127157,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.94
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.94
   },
   "fav:KXHIGHAUS-26NOV18-T73:no": {
@@ -127027,11 +127203,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.97
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
   },
   "fav:KXATPCHALLENGERMATCH-26NOV17COPGOJ-COP:no": {
    "id": "fav:KXATPCHALLENGERMATCH-26NOV17COPGOJ-COP:no",
@@ -128089,10 +128269,14 @@
     [
      "2026-11-18T01:13:15+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T01:13:15+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXNCAAFSPREAD-26NOV17BALLOHIO-OHIO22:no": {
@@ -128810,11 +128994,15 @@
     [
      "2026-11-18T01:13:15+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T01:13:15+00:00",
-   "last_price": 0.97
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
   },
   "fav:KXNBASPREAD-26NOV17NYKTOR-NYK20:no": {
    "id": "fav:KXNBASPREAD-26NOV17NYKTOR-NYK20:no",
@@ -129318,7 +129506,12 @@
      0.97
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 1.01,
+    "staked": 99.99
+   },
    "last_seen": "2026-11-18T01:13:15+00:00",
    "last_price": 0.97
   },
@@ -129514,10 +129707,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXNFLFIRSTTD-26NOV22TBDET-TBTBDST:no": {
@@ -129930,10 +130127,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXBOXING-26NOV18TEREMOAHIO-AHIO:no": {
@@ -129974,7 +130175,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.95
   },
@@ -130014,10 +130220,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXNFLFIRSTTD-26NOV22PITPHI-PHIPHIDST:no": {
@@ -130056,10 +130266,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXNEAR15M-26NOV172015-15:no": {
@@ -130141,10 +130355,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXNCAAF1HSPREAD-26NOV17BALLOHIO-OHIO3:no": {
@@ -130265,10 +130483,14 @@
     [
      "2026-11-18T01:13:15+00:00",
      0.967
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.967
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T01:13:15+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.967
   },
   "fav:KXNBA1H-26NOV17NYKTOR-TIE:no": {
@@ -131246,7 +131468,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T01:13:15+00:00",
    "last_price": 0.96
   },
@@ -131284,7 +131511,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T01:13:15+00:00",
    "last_price": 0.96
   },
@@ -131322,7 +131554,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T01:13:15+00:00",
    "last_price": 0.96
   },
@@ -131358,11 +131595,15 @@
     [
      "2026-11-18T01:13:15+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T01:13:15+00:00",
-   "last_price": 0.96
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXITFMATCH-26NOV18IBRYUA-YUA:no": {
    "id": "fav:KXITFMATCH-26NOV18IBRYUA-YUA:no",
@@ -131402,7 +131643,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.96
   },
@@ -131484,10 +131730,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXNFLFIRSTTD-26NOV19INDHOU-HOUCSTROUD7:no": {
@@ -131526,10 +131776,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXNCAAWBSPREAD-26NOV17FGCUSCAR-SCAR31:yes": {
@@ -131828,7 +132082,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.96
   },
@@ -132807,7 +133066,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T01:13:15+00:00",
    "last_price": 0.95
   },
@@ -132845,7 +133109,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T01:13:15+00:00",
    "last_price": 0.95
   },
@@ -132924,11 +133193,15 @@
     [
      "2026-11-18T01:13:15+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T01:13:15+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
   },
   "fav:KXHIGHCHI-26NOV18-B58.5:no": {
    "id": "fav:KXHIGHCHI-26NOV18-B58.5:no",
@@ -133008,10 +133281,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXEERSTEDIVGAME-26NOV20HERPSV-PSV:no": {
@@ -133050,10 +133327,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXNCAAF1HTOTAL-26NOV17MOHKENT-24:no": {
@@ -133512,10 +133793,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXLLM1-26NOV23-ANTH:no": {
@@ -133554,11 +133839,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXITFMATCH-26NOV17SECMEN-MEN:no": {
    "id": "fav:KXITFMATCH-26NOV17SECMEN-MEN:no",
@@ -133719,10 +134008,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXITFMATCH-26NOV18KUCSAR-KUC:yes": {
@@ -133759,7 +134052,12 @@
      0.97
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 1.01,
+    "staked": 99.99
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.97
   },
@@ -133949,7 +134247,12 @@
      0.97
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 1.01,
+    "staked": 99.99
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.97
   },
@@ -134175,10 +134478,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXHIGHTHOU-26NOV18-B69.5:no": {
@@ -134251,10 +134558,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXBTCD-26NOV2017-T69499.99:no": {
@@ -134403,10 +134714,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXNCAAFGAME-26NOV21INSTSDST-INST:no": {
@@ -134441,10 +134756,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXNCAAFGAME-26NOV21INSTSDST-SDST:yes": {
@@ -134479,10 +134798,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXNCAAFTEAMTOTAL-26NOV21SDSUBSU-BSU61:no": {
@@ -134555,10 +134878,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.97
   },
   "fav:KXNFLFIRSTTD-26NOV22MINSF-SFDSAMUEL19:no": {
@@ -134593,11 +134920,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.97
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.97
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
   },
   "fav:KXBTCD-26NOV1817-T62499.99:yes": {
    "id": "fav:KXBTCD-26NOV1817-T62499.99:yes",
@@ -134671,7 +135002,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.96
   },
@@ -134747,7 +135083,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": false,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": -99.96,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.96
   },
@@ -134785,7 +135126,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.96
   },
@@ -134823,7 +135169,12 @@
      0.96
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 2.04,
+    "staked": 99.96
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.96
   },
@@ -134859,11 +135210,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.96
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXITFWMATCH-26NOV18HAACAS-HAA:yes": {
    "id": "fav:KXITFWMATCH-26NOV18HAACAS-HAA:yes",
@@ -135011,10 +135366,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXBTCD-26NOV2017-T68999.99:no": {
@@ -135127,7 +135486,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.95
   },
@@ -135163,11 +135527,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.96
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXSUEZWEEKLY-26NOV22-T330:no": {
    "id": "fav:KXSUEZWEEKLY-26NOV22-T330:no",
@@ -135201,10 +135569,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.96
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.96
   },
   "fav:KXT20MATCH-26NOV180300MUMGOA-MUM:yes": {
@@ -135241,7 +135613,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.95
   },
@@ -135353,11 +135730,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
   },
   "fav:KXBRENTD-26NOV1817-T92.50:no": {
    "id": "fav:KXBRENTD-26NOV1817-T92.50:no",
@@ -135431,7 +135812,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.95
   },
@@ -135469,7 +135855,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.95
   },
@@ -135507,7 +135898,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.95
   },
@@ -135545,7 +135941,12 @@
      0.95
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 3.09,
+    "staked": 99.91
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.95
   },
@@ -135619,11 +136020,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
   },
   "fav:KXWTI-26NOV1814-T79.99:yes": {
    "id": "fav:KXWTI-26NOV1814-T79.99:yes",
@@ -135695,10 +136100,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXSWPLGAME-26NOV18PARGLA-TIE:no": {
@@ -135733,11 +136142,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
   },
   "fav:KXNCAAMBGAME-26NOV18IUINPSU-PSU:yes": {
    "id": "fav:KXNCAAMBGAME-26NOV18IUINPSU-PSU:yes",
@@ -135771,11 +136184,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
   },
   "fav:KXNFLFIRSTTD-26NOV22BALCAR-CARCARDST:no": {
    "id": "fav:KXNFLFIRSTTD-26NOV22BALCAR-CARCARDST:no",
@@ -135809,11 +136226,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
   },
   "fav:KXHIGHDEN-26NOV18-T61:no": {
    "id": "fav:KXHIGHDEN-26NOV18-T61:no",
@@ -135961,11 +136382,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.95
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXNFLOT-26NOV22TENDAL-Y:no": {
    "id": "fav:KXNFLOT-26NOV22TENDAL-Y:no",
@@ -135999,10 +136424,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXBRASILEIROGAME-26NOV18FLACAP-CAP:no": {
@@ -136037,10 +136466,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.94
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.94
   },
   "fav:KXNFLSPREAD-26NOV22ARIKC-ARI3:no": {
@@ -136075,10 +136508,14 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.95
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
+   "last_seen": "2026-11-18T17:56:15+00:00",
    "last_price": 0.95
   },
   "fav:KXRAIN-26NOV18-LAX:no": {
@@ -136153,7 +136590,12 @@
      0.94
     ]
    ],
-   "result": null,
+   "result": {
+    "won": false,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": -99.84,
+    "staked": 99.84
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.94
   },
@@ -136191,7 +136633,12 @@
      0.94
     ]
    ],
-   "result": null,
+   "result": {
+    "won": false,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": -99.84,
+    "staked": 99.84
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.94
   },
@@ -136229,7 +136676,12 @@
      0.94
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 4.16,
+    "staked": 99.84
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.94
   },
@@ -136305,7 +136757,12 @@
      0.94
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 4.16,
+    "staked": 99.84
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.94
   },
@@ -136493,11 +136950,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.93
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.93
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
   },
   "fav:KXATP-26FINALS-SHE:no": {
    "id": "fav:KXATP-26FINALS-SHE:no",
@@ -136569,11 +137030,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.93
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.93
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXENGWLEAGUECUPGAME-26NOV18WHUWOL-WOL:no": {
    "id": "fav:KXENGWLEAGUECUPGAME-26NOV18WHUWOL-WOL:no",
@@ -136607,11 +137072,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.93
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.93
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
   },
   "fav:KXNCAAMBGAME-26NOV18MOREOHIO-MORE:no": {
    "id": "fav:KXNCAAMBGAME-26NOV18MOREOHIO-MORE:no",
@@ -136759,11 +137228,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.93
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.93
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
   },
   "fav:KXNFLTD-26NOV22NOCHI-CHICLOVELAND84-2:no": {
    "id": "fav:KXNFLTD-26NOV22NOCHI-CHICLOVELAND84-2:no",
@@ -137063,11 +137536,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.93
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.93
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
   },
   "fav:KXNFLTD-26NOV22TENDAL-TENKGRANSON86-1:no": {
    "id": "fav:KXNFLTD-26NOV22TENDAL-TENKGRANSON86-1:no",
@@ -137291,11 +137768,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.93
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.93
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
   },
   "fav:KXNCAAMBGAME-26NOV18PORTCOLO-PORT:no": {
    "id": "fav:KXNCAAMBGAME-26NOV18PORTCOLO-PORT:no",
@@ -137939,7 +138420,12 @@
      0.91
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 7.49,
+    "staked": 99.51
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.91
   },
@@ -138013,11 +138499,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.91
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.91
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
   },
   "fav:KXNBBGAME-26NOV191800MITOSA-MIT:yes": {
    "id": "fav:KXNBBGAME-26NOV191800MITOSA-MIT:yes",
@@ -138091,7 +138581,12 @@
      0.91
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 7.49,
+    "staked": 99.51
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.91
   },
@@ -138165,11 +138660,15 @@
     [
      "2026-11-18T09:00:28+00:00",
      0.92
+    ],
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
     ]
    ],
    "result": null,
-   "last_seen": "2026-11-18T09:00:28+00:00",
-   "last_price": 0.92
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
   },
   "fav:KXUCLGAME-26NOV24MCINAP-NAP:no": {
    "id": "fav:KXUCLGAME-26NOV24MCINAP-NAP:no",
@@ -138243,7 +138742,12 @@
      0.91
     ]
    ],
-   "result": null,
+   "result": {
+    "won": true,
+    "settled_seen": "2026-11-18T17:56:15+00:00",
+    "profit": 7.49,
+    "staked": 99.51
+   },
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.91
   },
@@ -138284,6 +138788,4729 @@
    "result": null,
    "last_seen": "2026-11-18T09:00:28+00:00",
    "last_price": 0.92
+  },
+  "arb:KXNETFLIXRANKMOVIEGLOBAL-26NOV23": {
+   "id": "arb:KXNETFLIXRANKMOVIEGLOBAL-26NOV23",
+   "strategy": "arbitrage",
+   "ticker": "KXNETFLIXRANKMOVIEGLOBAL-26NOV23",
+   "side": "yes",
+   "legs": [
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-THE",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-SING",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-SIN",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-REM",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-HOW",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-HEA",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-FUN",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-ALLT",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-ALL",
+    "KXNETFLIXRANKMOVIEGLOBAL-26NOV23-ADO"
+   ],
+   "title": "Will The Gospel of Christmas be Top Global Netflix Movie on Nov 23, 2026?",
+   "outcome": "Buy YES on all 10 outcomes",
+   "category": "Entertainment",
+   "url": "https://kalshi.com/markets/kxnetflixrankmovieglobal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.64,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.64,
+    "contracts": 119,
+    "cost": 76.16,
+    "fees": 23.8,
+    "total_cost": 99.96,
+    "payout": 119.0,
+    "profit": 19.04,
+    "return_pct": 19.0476,
+    "annualized_pct": 5031657.02,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.84,
+    "days": 5.8783
+   },
+   "settles_at": "2026-11-24T15:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.64
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.64
+  },
+  "fav:KXNCAAMBGAME-26NOV18CAMPOKLA-CAMP:no": {
+   "id": "fav:KXNCAAMBGAME-26NOV18CAMPOKLA-CAMP:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBGAME-26NOV18CAMPOKLA-CAMP",
+   "side": "no",
+   "legs": [],
+   "title": "Campbell wins",
+   "outcome": "NOT Campbell",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.42
+   },
+   "settles_at": "2026-11-19T04:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXGOLDD-26NOV1817-T3776:no": {
+   "id": "fav:KXGOLDD-26NOV1817-T3776:no",
+   "strategy": "favorite",
+   "ticker": "KXGOLDD-26NOV1817-T3776",
+   "side": "no",
+   "legs": [],
+   "title": "Will the gold close price be above 3776 USD/t.oz on November 18, 2026 at 5:00 PM EST?",
+   "outcome": "NOT Above $3776",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxgoldd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNFLTD-26NOV19INDHOU-HOUEDEMERCADO31-2:no": {
+   "id": "fav:KXNFLTD-26NOV19INDHOU-HOUEDEMERCADO31-2:no",
+   "strategy": "favorite",
+   "ticker": "KXNFLTD-26NOV19INDHOU-HOUEDEMERCADO31-2",
+   "side": "no",
+   "legs": [],
+   "title": "Emari Demercado: 2+ touchdowns",
+   "outcome": "NOT Emari Demercado: 2+",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnfltd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 957.5282,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 1.5554
+   },
+   "settles_at": "2026-11-20T07:15:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXBTCD-26NOV2017-T67999.99:no": {
+   "id": "fav:KXBTCD-26NOV2017-T67999.99:no",
+   "strategy": "favorite",
+   "ticker": "KXBTCD-26NOV2017-T67999.99",
+   "side": "no",
+   "legs": [],
+   "title": "Bitcoin price on Nov 20, 2026?",
+   "outcome": "NOT $68,000 or above",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxbtcd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 440.7728,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 2.1734
+   },
+   "settles_at": "2026-11-20T22:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXBRENTD-26NOV1817-T90:no": {
+   "id": "fav:KXBRENTD-26NOV1817-T90:no",
+   "strategy": "favorite",
+   "ticker": "KXBRENTD-26NOV1817-T90",
+   "side": "no",
+   "legs": [],
+   "title": "Will the brent crude oil close price be above 90 USD/Bbl on November 18, 2026 at 5:00 PM EST?",
+   "outcome": "NOT Above $90",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxbrentd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXBRENTD-26NOV1817-T91:no": {
+   "id": "fav:KXBRENTD-26NOV1817-T91:no",
+   "strategy": "favorite",
+   "ticker": "KXBRENTD-26NOV1817-T91",
+   "side": "no",
+   "legs": [],
+   "title": "Will the brent crude oil close price be above 91 USD/Bbl on November 18, 2026 at 5:00 PM EST?",
+   "outcome": "NOT Above $91",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxbrentd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXWTI15M-26NOV181300-00:no": {
+   "id": "fav:KXWTI15M-26NOV181300-00:no",
+   "strategy": "favorite",
+   "ticker": "KXWTI15M-26NOV181300-00",
+   "side": "no",
+   "legs": [],
+   "title": "WTI Oil price up in next 15 mins?",
+   "outcome": "NOT Target Price: $81.73",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxwti15m",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.966,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.966,
+    "contracts": 101,
+    "cost": 97.57,
+    "fees": 2.02,
+    "total_cost": 99.59,
+    "payout": 101.0,
+    "profit": 1.41,
+    "return_pct": 1.4158,
+    "annualized_pct": 16826.1862,
+    "max_loss": 99.59,
+    "breakeven_prob": 0.986,
+    "days": 0.0068
+   },
+   "settles_at": "2026-11-18T18:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.966
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.966
+  },
+  "fav:KXNCAAWBGAME-26NOV18SDAKCHS-CHS:no": {
+   "id": "fav:KXNCAAWBGAME-26NOV18SDAKCHS-CHS:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAWBGAME-26NOV18SDAKCHS-CHS",
+   "side": "no",
+   "legs": [],
+   "title": "Chicago St. wins",
+   "outcome": "NOT Chicago St.",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaawbgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXINXU-26NOV18H1300-T7344.9999:no": {
+   "id": "fav:KXINXU-26NOV18H1300-T7344.9999:no",
+   "strategy": "favorite",
+   "ticker": "KXINXU-26NOV18H1300-T7344.9999",
+   "side": "no",
+   "legs": [],
+   "title": "Will the S&P 500 be above 7344.9999 on Nov 18, 2026 at 1pm EST?",
+   "outcome": "NOT 7,345 or above",
+   "category": "Financials",
+   "url": "https://kalshi.com/markets/kxinxu",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.0033
+   },
+   "settles_at": "2026-11-18T18:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXDOTA2MAP-26NOV181200ICCH-1-CH:yes": {
+   "id": "fav:KXDOTA2MAP-26NOV181200ICCH-1-CH:yes",
+   "strategy": "favorite",
+   "ticker": "KXDOTA2MAP-26NOV181200ICCH-1-CH",
+   "side": "yes",
+   "legs": [],
+   "title": "CyberHero wins map 1",
+   "outcome": "CyberHero",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxdota2map",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.0866
+   },
+   "settles_at": "2026-11-18T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXITFMATCH-26NOV18SCHTAI-TAI:no": {
+   "id": "fav:KXITFMATCH-26NOV18SCHTAI-TAI:no",
+   "strategy": "favorite",
+   "ticker": "KXITFMATCH-26NOV18SCHTAI-TAI",
+   "side": "no",
+   "legs": [],
+   "title": "Pierre Antoine Tailleu wins",
+   "outcome": "NOT Pierre Antoine Tailleu",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxitfmatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.0658
+   },
+   "settles_at": "2026-11-18T19:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18SIESJU-142:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18SIESJU-142:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18SIESJU-142",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 141.5 points scored",
+   "outcome": "Over 141.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18TXSOSDSU-129:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18TXSOSDSU-129:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18TXSOSDSU-129",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 128.5 points scored",
+   "outcome": "Over 128.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.5033
+   },
+   "settles_at": "2026-11-19T06:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXXRP-26NOV1813-B0.9699500:yes": {
+   "id": "fav:KXXRP-26NOV1813-B0.9699500:yes",
+   "strategy": "favorite",
+   "ticker": "KXXRP-26NOV1813-B0.9699500",
+   "side": "yes",
+   "legs": [],
+   "title": "Ripple price at Nov 18, 2026 at 1pm EST?",
+   "outcome": "$0.96 to 0.9799",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxxrp",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.0068
+   },
+   "settles_at": "2026-11-18T18:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXCOPPERD-26NOV1817-T5.64:yes": {
+   "id": "fav:KXCOPPERD-26NOV1817-T5.64:yes",
+   "strategy": "favorite",
+   "ticker": "KXCOPPERD-26NOV1817-T5.64",
+   "side": "yes",
+   "legs": [],
+   "title": "Will the copper close price be above 5.64 USD/Lbs on November 18, 2026 at 5:00 PM EST?",
+   "outcome": "Above $5.64",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxcopperd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXLIIGAGAME-26NOV181130LUKKAL-LUK:yes": {
+   "id": "fav:KXLIIGAGAME-26NOV181130LUKKAL-LUK:yes",
+   "strategy": "favorite",
+   "ticker": "KXLIIGAGAME-26NOV181130LUKKAL-LUK",
+   "side": "yes",
+   "legs": [],
+   "title": "Lukko Rauma wins",
+   "outcome": "Lukko Rauma",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxliigagame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.0658
+   },
+   "settles_at": "2026-11-18T19:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXUCLWSPREAD-26NOV18HACMCI-HAC2:no": {
+   "id": "fav:KXUCLWSPREAD-26NOV18HACMCI-HAC2:no",
+   "strategy": "favorite",
+   "ticker": "KXUCLWSPREAD-26NOV18HACMCI-HAC2",
+   "side": "no",
+   "legs": [],
+   "title": "Hacken Gothenburg wins by more than 1.5 goals?",
+   "outcome": "NOT Hacken Gothenburg wins by more than 1.5 goals",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxuclwspread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.1595
+   },
+   "settles_at": "2026-11-18T21:45:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXDOTA2MAP-26NOV181200ICCH-1-IC:no": {
+   "id": "fav:KXDOTA2MAP-26NOV181200ICCH-1-IC:no",
+   "strategy": "favorite",
+   "ticker": "KXDOTA2MAP-26NOV181200ICCH-1-IC",
+   "side": "no",
+   "legs": [],
+   "title": "Inner Circle wins map 1",
+   "outcome": "NOT Inner Circle",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxdota2map",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.0866
+   },
+   "settles_at": "2026-11-18T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNBA3PT-26NOV18ATLOKC-ATLLDORT0-5:no": {
+   "id": "fav:KXNBA3PT-26NOV18ATLOKC-ATLLDORT0-5:no",
+   "strategy": "favorite",
+   "ticker": "KXNBA3PT-26NOV18ATLOKC-ATLLDORT0-5",
+   "side": "no",
+   "legs": [],
+   "title": "Luguentz Dort: 5+ threes",
+   "outcome": "NOT Luguentz Dort: 5+",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnba3pt",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.42
+   },
+   "settles_at": "2026-11-19T04:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXTRUMPVH-26NOV20-T38.5:no": {
+   "id": "fav:KXTRUMPVH-26NOV20-T38.5:no",
+   "strategy": "favorite",
+   "ticker": "KXTRUMPVH-26NOV20-T38.5",
+   "side": "no",
+   "legs": [],
+   "title": "Will Donald Trump's VoteHub approval polling average be above 38.5% at 10:00 AM ET on Nov 20, 2026?",
+   "outcome": "NOT Above 38.5%",
+   "category": "Politics",
+   "url": "https://kalshi.com/markets/kxtrumpvh",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 605.0094,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 1.8783
+   },
+   "settles_at": "2026-11-20T15:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXBRASILEIROSCORE-26NOV18CFCSAN-CFC2SAN3:no": {
+   "id": "fav:KXBRASILEIROSCORE-26NOV18CFCSAN-CFC2SAN3:no",
+   "strategy": "favorite",
+   "ticker": "KXBRASILEIROSCORE-26NOV18CFCSAN-CFC2SAN3",
+   "side": "no",
+   "legs": [],
+   "title": "Final score Santos FC SP wins 3-2?",
+   "outcome": "NOT Santos FC SP wins 3-2",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxbrasileiroscore",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3158
+   },
+   "settles_at": "2026-11-19T01:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBGAME-26NOV18CAMPOKLA-OKLA:yes": {
+   "id": "fav:KXNCAAMBGAME-26NOV18CAMPOKLA-OKLA:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBGAME-26NOV18CAMPOKLA-OKLA",
+   "side": "yes",
+   "legs": [],
+   "title": "Oklahoma wins",
+   "outcome": "Oklahoma",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.42
+   },
+   "settles_at": "2026-11-19T04:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMB1H-26NOV18NIUMARQ-NIU:no": {
+   "id": "fav:KXNCAAMB1H-26NOV18NIUMARQ-NIU:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMB1H-26NOV18NIUMARQ-NIU",
+   "side": "no",
+   "legs": [],
+   "title": "Northern Illinois wins the 1st half",
+   "outcome": "NOT Northern Illinois",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaamb1h",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3991
+   },
+   "settles_at": "2026-11-19T03:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXBRASILEIROTOTAL-26NOV18FLACAP-1:yes": {
+   "id": "fav:KXBRASILEIROTOTAL-26NOV18FLACAP-1:yes",
+   "strategy": "favorite",
+   "ticker": "KXBRASILEIROTOTAL-26NOV18FLACAP-1",
+   "side": "yes",
+   "legs": [],
+   "title": "Will over 0.5 goals be scored?",
+   "outcome": "Over 0.5 goals scored",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxbrasileirototal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3991
+   },
+   "settles_at": "2026-11-19T03:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBGAME-26NOV18NAVYGTWN-GTWN:yes": {
+   "id": "fav:KXNCAAMBGAME-26NOV18NAVYGTWN-GTWN:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBGAME-26NOV18NAVYGTWN-GTWN",
+   "side": "yes",
+   "legs": [],
+   "title": "Georgetown wins",
+   "outcome": "Georgetown",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXBRASILEIROSCORE-26NOV18CRUPAL-CRU3PAL2:no": {
+   "id": "fav:KXBRASILEIROSCORE-26NOV18CRUPAL-CRU3PAL2:no",
+   "strategy": "favorite",
+   "ticker": "KXBRASILEIROSCORE-26NOV18CRUPAL-CRU3PAL2",
+   "side": "no",
+   "legs": [],
+   "title": "Final score Cruzeiro EC MG wins 3-2?",
+   "outcome": "NOT Cruzeiro EC MG wins 3-2",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxbrasileiroscore",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNBASPREAD-26NOV18WASTOR-TOR28:no": {
+   "id": "fav:KXNBASPREAD-26NOV18WASTOR-TOR28:no",
+   "strategy": "favorite",
+   "ticker": "KXNBASPREAD-26NOV18WASTOR-TOR28",
+   "side": "no",
+   "legs": [],
+   "title": "Toronto wins by over 27.5 points",
+   "outcome": "NOT Toronto wins by over 27.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnbaspread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3991
+   },
+   "settles_at": "2026-11-19T03:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18DETEMU-171:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18DETEMU-171:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18DETEMU-171",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 170.5 points scored",
+   "outcome": "NOT Over 170.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18NCCUGMU-162:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18NCCUGMU-162:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18NCCUGMU-162",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 161.5 points scored",
+   "outcome": "NOT Over 161.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18COPPLAS-171:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18COPPLAS-171:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18COPPLAS-171",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 170.5 points scored",
+   "outcome": "NOT Over 170.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18BUMRMK-162:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18BUMRMK-162:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18BUMRMK-162",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 161.5 points scored",
+   "outcome": "NOT Over 161.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMB1H-26NOV18CONNARIZ-TIE:no": {
+   "id": "fav:KXNCAAMB1H-26NOV18CONNARIZ-TIE:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMB1H-26NOV18CONNARIZ-TIE",
+   "side": "no",
+   "legs": [],
+   "title": "Tie in the 1st half",
+   "outcome": "NOT Tie",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaamb1h",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.4616
+   },
+   "settles_at": "2026-11-19T05:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18PFWBRAD-166:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18PFWBRAD-166:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18PFWBRAD-166",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 165.5 points scored",
+   "outcome": "NOT Over 165.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.42
+   },
+   "settles_at": "2026-11-19T04:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18IWTXST-171:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18IWTXST-171:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18IWTXST-171",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 170.5 points scored",
+   "outcome": "NOT Over 170.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 3818.8079,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 0.42
+   },
+   "settles_at": "2026-11-19T04:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNFLFIRSTTD-26NOV22PITPHI-PITPITDST:no": {
+   "id": "fav:KXNFLFIRSTTD-26NOV22PITPHI-PITPITDST:no",
+   "strategy": "favorite",
+   "ticker": "KXNFLFIRSTTD-26NOV22PITPHI-PITPITDST",
+   "side": "no",
+   "legs": [],
+   "title": "PIT Steelers D/ST: 1st Touchdown",
+   "outcome": "NOT PIT Steelers D/ST",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnflfirsttd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 143.1709,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 4.1283
+   },
+   "settles_at": "2026-11-22T21:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNFLFIRSTTD-26NOV22BALCAR-BALBALDST:no": {
+   "id": "fav:KXNFLFIRSTTD-26NOV22BALCAR-BALBALDST:no",
+   "strategy": "favorite",
+   "ticker": "KXNFLFIRSTTD-26NOV22BALCAR-BALBALDST",
+   "side": "no",
+   "legs": [],
+   "title": "BAL Ravens D/ST: 1st Touchdown",
+   "outcome": "NOT BAL Ravens D/ST",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnflfirsttd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 143.1709,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 4.1283
+   },
+   "settles_at": "2026-11-22T21:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNFLTD-26NOV22ARIKC-KCJBRININGSTOOL88-1:no": {
+   "id": "fav:KXNFLTD-26NOV22ARIKC-KCJBRININGSTOOL88-1:no",
+   "strategy": "favorite",
+   "ticker": "KXNFLTD-26NOV22ARIKC-KCJBRININGSTOOL88-1",
+   "side": "no",
+   "legs": [],
+   "title": "Jake Briningstool: 1+ touchdowns",
+   "outcome": "NOT Jake Briningstool: 1+",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnfltd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 136.9027,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 4.2533
+   },
+   "settles_at": "2026-11-23T00:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNFL1HFT-26NOV19INDHOU-HOUIND:no": {
+   "id": "fav:KXNFL1HFT-26NOV19INDHOU-HOUIND:no",
+   "strategy": "favorite",
+   "ticker": "KXNFL1HFT-26NOV19INDHOU-HOUIND",
+   "side": "no",
+   "legs": [],
+   "title": "Houston wins 1st Half / Indianapolis wins game",
+   "outcome": "NOT Houston 1H / Indianapolis game",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnfl1hft",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 1199.5851,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 1.4304
+   },
+   "settles_at": "2026-11-20T04:15:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXBTC-26NOV2017-B65750:no": {
+   "id": "fav:KXBTC-26NOV2017-B65750:no",
+   "strategy": "favorite",
+   "ticker": "KXBTC-26NOV2017-B65750",
+   "side": "no",
+   "legs": [],
+   "title": "Bitcoin price range on Nov 20, 2026?",
+   "outcome": "NOT $65,500 to 65,999.99",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxbtc",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 440.7728,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 2.1734
+   },
+   "settles_at": "2026-11-20T22:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAFSPREAD-26NOV21HAWNEV-HAW18:no": {
+   "id": "fav:KXNCAAFSPREAD-26NOV21HAWNEV-HAW18:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAFSPREAD-26NOV21HAWNEV-HAW18",
+   "side": "no",
+   "legs": [],
+   "title": "Hawai'i wins by over 17.5 points",
+   "outcome": "NOT Hawai'i wins by over 17.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaafspread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 183.1857,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 3.5241
+   },
+   "settles_at": "2026-11-22T06:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXBTCD-26NOV1813-T62899.99:yes": {
+   "id": "fav:KXBTCD-26NOV1813-T62899.99:yes",
+   "strategy": "favorite",
+   "ticker": "KXBTCD-26NOV1813-T62899.99",
+   "side": "yes",
+   "legs": [],
+   "title": "Bitcoin price on Nov 18, 2026?",
+   "outcome": "$62,900 or above",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxbtcd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.0068
+   },
+   "settles_at": "2026-11-18T18:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXATPCHALLENGERMATCH-26NOV18TROCHA-TRO:yes": {
+   "id": "fav:KXATPCHALLENGERMATCH-26NOV18TROCHA-TRO:yes",
+   "strategy": "favorite",
+   "ticker": "KXATPCHALLENGERMATCH-26NOV18TROCHA-TRO",
+   "side": "yes",
+   "legs": [],
+   "title": "James Kent Trotter wins",
+   "outcome": "James Kent Trotter",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxatpchallengermatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.045
+   },
+   "settles_at": "2026-11-18T19:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXATPCHALLENGERMATCH-26NOV18TROCHA-CHA:no": {
+   "id": "fav:KXATPCHALLENGERMATCH-26NOV18TROCHA-CHA:no",
+   "strategy": "favorite",
+   "ticker": "KXATPCHALLENGERMATCH-26NOV18TROCHA-CHA",
+   "side": "no",
+   "legs": [],
+   "title": "Joshua Charlton wins",
+   "outcome": "NOT Joshua Charlton",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxatpchallengermatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.045
+   },
+   "settles_at": "2026-11-18T19:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXBTCD-26NOV1817-T64499.99:no": {
+   "id": "fav:KXBTCD-26NOV1817-T64499.99:no",
+   "strategy": "favorite",
+   "ticker": "KXBTCD-26NOV1817-T64499.99",
+   "side": "no",
+   "legs": [],
+   "title": "Bitcoin price on Nov 18, 2026?",
+   "outcome": "NOT $64,500 or above",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxbtcd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.1734
+   },
+   "settles_at": "2026-11-18T22:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNFLFIRSTTD-26NOV22BALCAR-CARTTREMBLE82:no": {
+   "id": "fav:KXNFLFIRSTTD-26NOV22BALCAR-CARTTREMBLE82:no",
+   "strategy": "favorite",
+   "ticker": "KXNFLFIRSTTD-26NOV22BALCAR-CARTTREMBLE82",
+   "side": "no",
+   "legs": [],
+   "title": "Tommy Tremble: 1st Touchdown",
+   "outcome": "NOT Tommy Tremble",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnflfirsttd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 136.9027,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 4.2533
+   },
+   "settles_at": "2026-11-23T00:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXAAAGASD-26NOV19-3.7150:yes": {
+   "id": "fav:KXAAAGASD-26NOV19-3.7150:yes",
+   "strategy": "favorite",
+   "ticker": "KXAAAGASD-26NOV19-3.7150",
+   "side": "yes",
+   "legs": [],
+   "title": "Will average **gas prices** be above $3.7150?",
+   "outcome": "Above 3.7150",
+   "category": "Economics",
+   "url": "https://kalshi.com/markets/kxaaagasd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.8783
+   },
+   "settles_at": "2026-11-19T15:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXUCLWSPREAD-26NOV18CFCPSG-PSG2:no": {
+   "id": "fav:KXUCLWSPREAD-26NOV18CFCPSG-PSG2:no",
+   "strategy": "favorite",
+   "ticker": "KXUCLWSPREAD-26NOV18CFCPSG-PSG2",
+   "side": "no",
+   "legs": [],
+   "title": "PSG wins by more than 1.5 goals?",
+   "outcome": "NOT PSG wins by more than 1.5 goals",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxuclwspread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.2533
+   },
+   "settles_at": "2026-11-19T00:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNCAAWBGAME-26NOV18WCUCIN-WCU:no": {
+   "id": "fav:KXNCAAWBGAME-26NOV18WCUCIN-WCU:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAWBGAME-26NOV18WCUCIN-WCU",
+   "side": "no",
+   "legs": [],
+   "title": "Western Carolina wins",
+   "outcome": "NOT Western Carolina",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaawbgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.295
+   },
+   "settles_at": "2026-11-19T01:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXWTI-26NOV1814-T82.49:no": {
+   "id": "fav:KXWTI-26NOV1814-T82.49:no",
+   "strategy": "favorite",
+   "ticker": "KXWTI-26NOV1814-T82.49",
+   "side": "no",
+   "legs": [],
+   "title": "Will the WTI crude oil settlement price be above 82.49 USD/Bbl on Nov 18, 2026?",
+   "outcome": "NOT Above $82.49",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxwti",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.0658
+   },
+   "settles_at": "2026-11-18T19:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNETFLIXTOPVIEWSMOVIE-26NOV23-9:yes": {
+   "id": "fav:KXNETFLIXTOPVIEWSMOVIE-26NOV23-9:yes",
+   "strategy": "favorite",
+   "ticker": "KXNETFLIXTOPVIEWSMOVIE-26NOV23-9",
+   "side": "yes",
+   "legs": [],
+   "title": "Will the #1 Movie on Netflix have at least 9 million views?",
+   "outcome": "At least 9 million",
+   "category": "Entertainment",
+   "url": "https://kalshi.com/markets/kxnetflixtopviewsmovie",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.97,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.97,
+    "contracts": 101,
+    "cost": 97.97,
+    "fees": 2.02,
+    "total_cost": 99.99,
+    "payout": 101.0,
+    "profit": 1.01,
+    "return_pct": 1.0101,
+    "annualized_pct": 86.6481,
+    "max_loss": 99.99,
+    "breakeven_prob": 0.99,
+    "days": 5.8783
+   },
+   "settles_at": "2026-11-24T15:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.97
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.97
+  },
+  "fav:KXNCAAMBGAME-26NOV18CORSYR-COR:no": {
+   "id": "fav:KXNCAAMBGAME-26NOV18CORSYR-COR:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBGAME-26NOV18CORSYR-COR",
+   "side": "no",
+   "legs": [],
+   "title": "Cornell wins",
+   "outcome": "NOT Cornell",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.42
+   },
+   "settles_at": "2026-11-19T04:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXSRBCUPTOTAL-26NOV18ZEMRKG-5:no": {
+   "id": "fav:KXSRBCUPTOTAL-26NOV18ZEMRKG-5:no",
+   "strategy": "favorite",
+   "ticker": "KXSRBCUPTOTAL-26NOV18ZEMRKG-5",
+   "side": "no",
+   "legs": [],
+   "title": "Will over 4.5 goals be scored?",
+   "outcome": "NOT Over 4.5 goals scored",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxsrbcuptotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.1491
+   },
+   "settles_at": "2026-11-18T21:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNBASPREAD-26NOV18MILMIA-MIA35:no": {
+   "id": "fav:KXNBASPREAD-26NOV18MILMIA-MIA35:no",
+   "strategy": "favorite",
+   "ticker": "KXNBASPREAD-26NOV18MILMIA-MIA35",
+   "side": "no",
+   "legs": [],
+   "title": "Miami wins by over 34.5 points",
+   "outcome": "NOT Miami wins by over 34.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnbaspread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXSRBCUPSPREAD-26NOV18ZEMRKG-ZEM2:no": {
+   "id": "fav:KXSRBCUPSPREAD-26NOV18ZEMRKG-ZEM2:no",
+   "strategy": "favorite",
+   "ticker": "KXSRBCUPSPREAD-26NOV18ZEMRKG-ZEM2",
+   "side": "no",
+   "legs": [],
+   "title": "Zemun wins by more than 1.5 goals?",
+   "outcome": "NOT Zemun wins by more than 1.5 goals",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxsrbcupspread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.1491
+   },
+   "settles_at": "2026-11-18T21:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNCAAWBGAME-26NOV18WCUCIN-CIN:yes": {
+   "id": "fav:KXNCAAWBGAME-26NOV18WCUCIN-CIN:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAWBGAME-26NOV18WCUCIN-CIN",
+   "side": "yes",
+   "legs": [],
+   "title": "Cincinnati wins",
+   "outcome": "Cincinnati",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaawbgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.295
+   },
+   "settles_at": "2026-11-19T01:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXPGATOP10-THRC26-KHIR:no": {
+   "id": "fav:KXPGATOP10-THRC26-KHIR:no",
+   "strategy": "favorite",
+   "ticker": "KXPGATOP10-THRC26-KHIR",
+   "side": "no",
+   "legs": [],
+   "title": "Kensei Hirata finishes top 10",
+   "outcome": "NOT Kensei Hirata",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxpgatop10",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.0
+   },
+   "settles_at": "2026-11-16T19:20:01+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXUCLWTOTAL-26NOV18HACMCI-1:yes": {
+   "id": "fav:KXUCLWTOTAL-26NOV18HACMCI-1:yes",
+   "strategy": "favorite",
+   "ticker": "KXUCLWTOTAL-26NOV18HACMCI-1",
+   "side": "yes",
+   "legs": [],
+   "title": "Will over 0.5 goals be scored?",
+   "outcome": "Over 0.5 goals scored",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxuclwtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.1595
+   },
+   "settles_at": "2026-11-18T21:45:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXQSTARSTOTAL-26NOV19AHLSHM-1:yes": {
+   "id": "fav:KXQSTARSTOTAL-26NOV19AHLSHM-1:yes",
+   "strategy": "favorite",
+   "ticker": "KXQSTARSTOTAL-26NOV19AHLSHM-1",
+   "side": "yes",
+   "legs": [],
+   "title": "Will over 0.5 goals be scored?",
+   "outcome": "Over 0.5 goals scored",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxqstarstotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 101012.1709,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 1.0658
+   },
+   "settles_at": "2026-11-19T19:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXSILVERD-26NOV1817-T45.75:no": {
+   "id": "fav:KXSILVERD-26NOV1817-T45.75:no",
+   "strategy": "favorite",
+   "ticker": "KXSILVERD-26NOV1817-T45.75",
+   "side": "no",
+   "legs": [],
+   "title": "Will the silver close price be above 45.75 USD/t.oz on November 18, 2026 at 5:00 PM EST?",
+   "outcome": "NOT Above $45.75",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxsilverd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXBTC-26NOV1817-B62125:no": {
+   "id": "fav:KXBTC-26NOV1817-B62125:no",
+   "strategy": "favorite",
+   "ticker": "KXBTC-26NOV1817-B62125",
+   "side": "no",
+   "legs": [],
+   "title": "Bitcoin price range on Nov 18, 2026?",
+   "outcome": "NOT $62,000 to 62,249.99",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxbtc",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.1734
+   },
+   "settles_at": "2026-11-18T22:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNBA3D-26NOV18PHIORL-ORLFWAGNER22:no": {
+   "id": "fav:KXNBA3D-26NOV18PHIORL-ORLFWAGNER22:no",
+   "strategy": "favorite",
+   "ticker": "KXNBA3D-26NOV18PHIORL-ORLFWAGNER22",
+   "side": "no",
+   "legs": [],
+   "title": "Franz Wagner: Triple Double",
+   "outcome": "NOT Franz Wagner",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnba3d",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNCAAMBGAME-26NOV18IWTXST-IW:no": {
+   "id": "fav:KXNCAAMBGAME-26NOV18IWTXST-IW:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBGAME-26NOV18IWTXST-IW",
+   "side": "no",
+   "legs": [],
+   "title": "Incarnate Word wins",
+   "outcome": "NOT Incarnate Word",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.42
+   },
+   "settles_at": "2026-11-19T04:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXCOPADELREYTOTAL-26NOV18BADTEN-6:no": {
+   "id": "fav:KXCOPADELREYTOTAL-26NOV18BADTEN-6:no",
+   "strategy": "favorite",
+   "ticker": "KXCOPADELREYTOTAL-26NOV18BADTEN-6",
+   "side": "no",
+   "legs": [],
+   "title": "Will over 5.5 goals be scored?",
+   "outcome": "NOT Reg Time: Over 5.5 goals scored",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxcopadelreytotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.2116
+   },
+   "settles_at": "2026-11-18T23:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNCAAFTEAMTOTAL-26NOV18AKRMASS-MASS10:yes": {
+   "id": "fav:KXNCAAFTEAMTOTAL-26NOV18AKRMASS-MASS10:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAFTEAMTOTAL-26NOV18AKRMASS-MASS10",
+   "side": "yes",
+   "legs": [],
+   "title": "UMass over 9.5 points scored",
+   "outcome": "UMass over 9.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaafteamtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18HOUFLA-175:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18HOUFLA-175:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18HOUFLA-175",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 174.5 points scored",
+   "outcome": "NOT Over 174.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.2741
+   },
+   "settles_at": "2026-11-19T00:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXITFMATCH-26NOV18RHODEA-RHO:no": {
+   "id": "fav:KXITFMATCH-26NOV18RHODEA-RHO:no",
+   "strategy": "favorite",
+   "ticker": "KXITFMATCH-26NOV18RHODEA-RHO",
+   "side": "no",
+   "legs": [],
+   "title": "Guilherme Rhod wins",
+   "outcome": "NOT Guilherme Rhod",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxitfmatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.3991
+   },
+   "settles_at": "2026-11-19T03:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18ALCNMIZZ-129:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18ALCNMIZZ-129:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18ALCNMIZZ-129",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 128.5 points scored",
+   "outcome": "Over 128.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.4616
+   },
+   "settles_at": "2026-11-19T05:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18UNLVAUB-133:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18UNLVAUB-133:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18UNLVAUB-133",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 132.5 points scored",
+   "outcome": "Over 132.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 159297.8181,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 0.5033
+   },
+   "settles_at": "2026-11-19T06:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXHIGHDEN-26NOV18-B60.5:no": {
+   "id": "fav:KXHIGHDEN-26NOV18-B60.5:no",
+   "strategy": "favorite",
+   "ticker": "KXHIGHDEN-26NOV18-B60.5",
+   "side": "no",
+   "legs": [],
+   "title": "Will the maximum temperature be 60-61° on Nov 18, 2026?",
+   "outcome": "NOT 60° to 61°",
+   "category": "Climate and Weather",
+   "url": "https://kalshi.com/markets/kxhighden",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 88451.0234,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 1.0866
+   },
+   "settles_at": "2026-11-19T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXBTCD-26NOV2017-T57999.99:yes": {
+   "id": "fav:KXBTCD-26NOV2017-T57999.99:yes",
+   "strategy": "favorite",
+   "ticker": "KXBTCD-26NOV2017-T57999.99",
+   "side": "yes",
+   "legs": [],
+   "title": "Bitcoin price on Nov 20, 2026?",
+   "outcome": "$58,000 or above",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxbtcd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 2874.895,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 2.1734
+   },
+   "settles_at": "2026-11-20T22:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNFL1HFT-26NOV19INDHOU-TIEHOU:no": {
+   "id": "fav:KXNFL1HFT-26NOV19INDHOU-TIEHOU:no",
+   "strategy": "favorite",
+   "ticker": "KXNFL1HFT-26NOV19INDHOU-TIEHOU",
+   "side": "no",
+   "legs": [],
+   "title": "Tie in 1st Half / Houston wins game",
+   "outcome": "NOT Tie 1H / Houston game",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnfl1hft",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 17234.74,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 1.4304
+   },
+   "settles_at": "2026-11-20T04:15:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXATPCHALLENGERMATCH-26NOV18PDAPRA-PRA:no": {
+   "id": "fav:KXATPCHALLENGERMATCH-26NOV18PDAPRA-PRA:no",
+   "strategy": "favorite",
+   "ticker": "KXATPCHALLENGERMATCH-26NOV18PDAPRA-PRA",
+   "side": "no",
+   "legs": [],
+   "title": "Juan Carlos Prado Angelo wins",
+   "outcome": "NOT Juan Carlos Prado Angelo",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxatpchallengermatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.0658
+   },
+   "settles_at": "2026-11-18T19:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXATPCHALLENGERMATCH-26NOV18PDAPRA-PDA:yes": {
+   "id": "fav:KXATPCHALLENGERMATCH-26NOV18PDAPRA-PDA:yes",
+   "strategy": "favorite",
+   "ticker": "KXATPCHALLENGERMATCH-26NOV18PDAPRA-PDA",
+   "side": "yes",
+   "legs": [],
+   "title": "Matheus Pucinelli de Almeida wins",
+   "outcome": "Matheus Pucinelli de Almeida",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxatpchallengermatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.0658
+   },
+   "settles_at": "2026-11-18T19:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXF1RACEPODIUM-LASV26-PIA:no": {
+   "id": "fav:KXF1RACEPODIUM-LASV26-PIA:no",
+   "strategy": "favorite",
+   "ticker": "KXF1RACEPODIUM-LASV26-PIA",
+   "side": "no",
+   "legs": [],
+   "title": "Main Race: Oscar Piastri to finish top 3",
+   "outcome": "NOT Oscar Piastri",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxf1racepodium",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 645.7991,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 3.67
+   },
+   "settles_at": "2026-11-22T10:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXLIGUE1TOTAL-26NOV22PARANG-1:yes": {
+   "id": "fav:KXLIGUE1TOTAL-26NOV22PARANG-1:yes",
+   "strategy": "favorite",
+   "ticker": "KXLIGUE1TOTAL-26NOV22PARANG-1",
+   "side": "yes",
+   "legs": [],
+   "title": "Will over 0.5 goals be scored?",
+   "outcome": "Over 0.5 goals scored",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxligue1total",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 530.9037,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 4.0033
+   },
+   "settles_at": "2026-11-22T18:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNFLSPREAD-26NOV22JACNYG-JAC28:no": {
+   "id": "fav:KXNFLSPREAD-26NOV22JACNYG-JAC28:no",
+   "strategy": "favorite",
+   "ticker": "KXNFLSPREAD-26NOV22JACNYG-JAC28",
+   "side": "no",
+   "legs": [],
+   "title": "Jacksonville wins by over 27.5 points?",
+   "outcome": "NOT Jacksonville wins by over 27.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnflspread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 462.1885,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 4.2706
+   },
+   "settles_at": "2026-11-23T00:25:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXNFLTD-26NOV22BALCAR-CARTMCMILLAN4-2:no": {
+   "id": "fav:KXNFLTD-26NOV22BALCAR-CARTMCMILLAN4-2:no",
+   "strategy": "favorite",
+   "ticker": "KXNFLTD-26NOV22BALCAR-CARTMCMILLAN4-2",
+   "side": "no",
+   "legs": [],
+   "title": "Tetairoa McMillan: 2+ touchdowns",
+   "outcome": "NOT Tetairoa McMillan: 2+",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnfltd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 466.1647,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 4.2533
+   },
+   "settles_at": "2026-11-23T00:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXCBDISRAEL-26NOV23-C25:no": {
+   "id": "fav:KXCBDISRAEL-26NOV23-C25:no",
+   "strategy": "favorite",
+   "ticker": "KXCBDISRAEL-26NOV23-C25",
+   "side": "no",
+   "legs": [],
+   "title": "Will the Bank of Israel cut 1-25bps at the November Monetary Committee meeting?",
+   "outcome": "NOT Cut 1-25bps",
+   "category": "Economics",
+   "url": "https://kalshi.com/markets/kxcbdisrael",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.96,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.96,
+    "contracts": 102,
+    "cost": 97.92,
+    "fees": 2.04,
+    "total_cost": 99.96,
+    "payout": 102.0,
+    "profit": 2.04,
+    "return_pct": 2.0408,
+    "annualized_pct": 353.395,
+    "max_loss": 99.96,
+    "breakeven_prob": 0.98,
+    "days": 4.8783
+   },
+   "settles_at": "2026-11-23T15:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.96
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.96
+  },
+  "fav:KXETHD-26NOV1813-T1769.99:no": {
+   "id": "fav:KXETHD-26NOV1813-T1769.99:no",
+   "strategy": "favorite",
+   "ticker": "KXETHD-26NOV1813-T1769.99",
+   "side": "no",
+   "legs": [],
+   "title": "Ethereum price at Nov 18, 2026 at 1pm EST?",
+   "outcome": "NOT $1,770 or above",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxethd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.0068
+   },
+   "settles_at": "2026-11-18T18:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXWTI-26NOV1814-T80.49:yes": {
+   "id": "fav:KXWTI-26NOV1814-T80.49:yes",
+   "strategy": "favorite",
+   "ticker": "KXWTI-26NOV1814-T80.49",
+   "side": "yes",
+   "legs": [],
+   "title": "Will the WTI crude oil settlement price be above 80.49 USD/Bbl on Nov 18, 2026?",
+   "outcome": "Above $80.49",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxwti",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.0658
+   },
+   "settles_at": "2026-11-18T19:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXGOLDD-26NOV1817-T3766:no": {
+   "id": "fav:KXGOLDD-26NOV1817-T3766:no",
+   "strategy": "favorite",
+   "ticker": "KXGOLDD-26NOV1817-T3766",
+   "side": "no",
+   "legs": [],
+   "title": "Will the gold close price be above 3766 USD/t.oz on November 18, 2026 at 5:00 PM EST?",
+   "outcome": "NOT Above $3766",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxgoldd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAWBTOTAL-26NOV18ETAMTXAM-130:no": {
+   "id": "fav:KXNCAAWBTOTAL-26NOV18ETAMTXAM-130:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAWBTOTAL-26NOV18ETAMTXAM-130",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 129.5 points scored",
+   "outcome": "NOT Over 129.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaawbtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.0866
+   },
+   "settles_at": "2026-11-18T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXGOLDD-26NOV1817-T3696:yes": {
+   "id": "fav:KXGOLDD-26NOV1817-T3696:yes",
+   "strategy": "favorite",
+   "ticker": "KXGOLDD-26NOV1817-T3696",
+   "side": "yes",
+   "legs": [],
+   "title": "Will the gold close price be above 3696 USD/t.oz on November 18, 2026 at 5:00 PM EST?",
+   "outcome": "Above $3696",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxgoldd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXBTC-26NOV1817-B63875:no": {
+   "id": "fav:KXBTC-26NOV1817-B63875:no",
+   "strategy": "favorite",
+   "ticker": "KXBTC-26NOV1817-B63875",
+   "side": "no",
+   "legs": [],
+   "title": "Bitcoin price range on Nov 18, 2026?",
+   "outcome": "NOT $63,750 to 63,999.99",
+   "category": "Crypto",
+   "url": "https://kalshi.com/markets/kxbtc",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.1734
+   },
+   "settles_at": "2026-11-18T22:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAFTOTAL-26NOV18AKRMASS-26:yes": {
+   "id": "fav:KXNCAAFTOTAL-26NOV18AKRMASS-26:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAFTOTAL-26NOV18AKRMASS-26",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 25.5 points scored",
+   "outcome": "Over 25.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaaftotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNBA3D-26NOV18PHIORL-PHILJAMES23:no": {
+   "id": "fav:KXNBA3D-26NOV18PHIORL-PHILJAMES23:no",
+   "strategy": "favorite",
+   "ticker": "KXNBA3D-26NOV18PHIORL-PHILJAMES23",
+   "side": "no",
+   "legs": [],
+   "title": "LeBron James: Triple Double",
+   "outcome": "NOT LeBron James",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnba3d",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXCOPPERD-26NOV1817-T5.66:yes": {
+   "id": "fav:KXCOPPERD-26NOV1817-T5.66:yes",
+   "strategy": "favorite",
+   "ticker": "KXCOPPERD-26NOV1817-T5.66",
+   "side": "yes",
+   "legs": [],
+   "title": "Will the copper close price be above 5.66 USD/Lbs on November 18, 2026 at 5:00 PM EST?",
+   "outcome": "Above $5.66",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxcopperd",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.17
+   },
+   "settles_at": "2026-11-18T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXTESTMATCH-26NOV162330SRIPAK-PAK:yes": {
+   "id": "fav:KXTESTMATCH-26NOV162330SRIPAK-PAK:yes",
+   "strategy": "favorite",
+   "ticker": "KXTESTMATCH-26NOV162330SRIPAK-PAK",
+   "side": "yes",
+   "legs": [],
+   "title": "Pakistan wins",
+   "outcome": "Pakistan",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxtestmatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 2430.8081,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 3.4408
+   },
+   "settles_at": "2026-11-22T04:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXBRASILEIROTOTAL-26NOV18CFCSAN-1:yes": {
+   "id": "fav:KXBRASILEIROTOTAL-26NOV18CFCSAN-1:yes",
+   "strategy": "favorite",
+   "ticker": "KXBRASILEIROTOTAL-26NOV18CFCSAN-1",
+   "side": "yes",
+   "legs": [],
+   "title": "Will over 0.5 goals be scored?",
+   "outcome": "Over 0.5 goals scored",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxbrasileirototal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18RUTGND-125:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18RUTGND-125:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18RUTGND-125",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 124.5 points scored",
+   "outcome": "Over 124.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.295
+   },
+   "settles_at": "2026-11-19T01:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18WOFCHSO-138:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18WOFCHSO-138:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18WOFCHSO-138",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 137.5 points scored",
+   "outcome": "Over 137.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18SIESJU-145:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18SIESJU-145:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18SIESJU-145",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 144.5 points scored",
+   "outcome": "Over 144.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXBRASILEIROTOTAL-26NOV18CRCHA-1:yes": {
+   "id": "fav:KXBRASILEIROTOTAL-26NOV18CRCHA-1:yes",
+   "strategy": "favorite",
+   "ticker": "KXBRASILEIROTOTAL-26NOV18CRCHA-1",
+   "side": "yes",
+   "legs": [],
+   "title": "Will over 0.5 goals be scored?",
+   "outcome": "Over 0.5 goals scored",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxbrasileirototal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18NAVYGTWN-166:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18NAVYGTWN-166:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18NAVYGTWN-166",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 165.5 points scored",
+   "outcome": "NOT Over 165.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18FGCUFAU-129:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18FGCUFAU-129:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18FGCUFAU-129",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 128.5 points scored",
+   "outcome": "Over 128.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18UVMYALE-166:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18UVMYALE-166:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18UVMYALE-166",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 165.5 points scored",
+   "outcome": "NOT Over 165.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3783
+   },
+   "settles_at": "2026-11-19T03:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNBAREB-26NOV18WASTOR-TORSBARNES4-4:yes": {
+   "id": "fav:KXNBAREB-26NOV18WASTOR-TORSBARNES4-4:yes",
+   "strategy": "favorite",
+   "ticker": "KXNBAREB-26NOV18WASTOR-TORSBARNES4-4",
+   "side": "yes",
+   "legs": [],
+   "title": "Scottie Barnes: 4+ rebounds",
+   "outcome": "Scottie Barnes: 4+",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxnbareb",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.3991
+   },
+   "settles_at": "2026-11-19T03:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18COOKCREI-129:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18COOKCREI-129:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18COOKCREI-129",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 128.5 points scored",
+   "outcome": "Over 128.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.4616
+   },
+   "settles_at": "2026-11-19T05:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18CONNARIZ-175:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18CONNARIZ-175:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18CONNARIZ-175",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 174.5 points scored",
+   "outcome": "NOT Over 174.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6734580.4324,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 0.5866
+   },
+   "settles_at": "2026-11-19T08:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXHIGHDEN-26NOV18-B54.5:no": {
+   "id": "fav:KXHIGHDEN-26NOV18-B54.5:no",
+   "strategy": "favorite",
+   "ticker": "KXHIGHDEN-26NOV18-B54.5",
+   "side": "no",
+   "legs": [],
+   "title": "Will the maximum temperature be 54-55° on Nov 18, 2026?",
+   "outcome": "NOT 54° to 55°",
+   "category": "Climate and Weather",
+   "url": "https://kalshi.com/markets/kxhighden",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 2775924.6875,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 1.0866
+   },
+   "settles_at": "2026-11-19T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXBRASILEIROSPREAD-26NOV19VITRBB-VIT3:no": {
+   "id": "fav:KXBRASILEIROSPREAD-26NOV19VITRBB-VIT3:no",
+   "strategy": "favorite",
+   "ticker": "KXBRASILEIROSPREAD-26NOV19VITRBB-VIT3",
+   "side": "no",
+   "legs": [],
+   "title": "Vitoria wins by more than 2.5 goals?",
+   "outcome": "NOT Vitoria wins by more than 2.5 goals",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxbrasileirospread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 360388.1399,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 1.3575
+   },
+   "settles_at": "2026-11-20T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXSILVERW-26NOV2017-T47.99:no": {
+   "id": "fav:KXSILVERW-26NOV2017-T47.99:no",
+   "strategy": "favorite",
+   "ticker": "KXSILVERW-26NOV2017-T47.99",
+   "side": "no",
+   "legs": [],
+   "title": "Will the silver close price be above 47.99 USD/t.oz on November 20, 2026 at 5:00 PM EST?",
+   "outcome": "NOT Above $47.99",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxsilverw",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 16691.0449,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 2.17
+   },
+   "settles_at": "2026-11-20T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXBUNDESLIGAGAME-26NOV20BMUKOE-TIE:no": {
+   "id": "fav:KXBUNDESLIGAGAME-26NOV20BMUKOE-TIE:no",
+   "strategy": "favorite",
+   "ticker": "KXBUNDESLIGAGAME-26NOV20BMUKOE-TIE",
+   "side": "no",
+   "legs": [],
+   "title": "Tie is the result",
+   "outcome": "NOT Tie",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxbundesligagame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 15892.5717,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 2.1908
+   },
+   "settles_at": "2026-11-20T22:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXBRENTW-26NOV2017-T92.99:no": {
+   "id": "fav:KXBRENTW-26NOV2017-T92.99:no",
+   "strategy": "favorite",
+   "ticker": "KXBRENTW-26NOV2017-T92.99",
+   "side": "no",
+   "legs": [],
+   "title": "Will the brent crude oil close price be above 92.99 USD/Bbl on November 20, 2026 at 5:00 PM EST?",
+   "outcome": "NOT Above $92.99",
+   "category": "Commodities",
+   "url": "https://kalshi.com/markets/kxbrentw",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 16691.0449,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 2.17
+   },
+   "settles_at": "2026-11-20T22:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXJLEAGUESPREAD-26NOV21CERTOK-CER2:no": {
+   "id": "fav:KXJLEAGUESPREAD-26NOV21CERTOK-CER2:no",
+   "strategy": "favorite",
+   "ticker": "KXJLEAGUESPREAD-26NOV21CERTOK-CER2",
+   "side": "no",
+   "legs": [],
+   "title": "Cerezo wins by more than 1.5 goals?",
+   "outcome": "NOT Cerezo wins by more than 1.5 goals",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxjleaguespread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 6332.6418,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 2.67
+   },
+   "settles_at": "2026-11-21T10:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXRAIN-26NOV19-ATL:no": {
+   "id": "fav:KXRAIN-26NOV19-ATL:no",
+   "strategy": "favorite",
+   "ticker": "KXRAIN-26NOV19-ATL",
+   "side": "no",
+   "legs": [],
+   "title": "Will it rain in Atlanta on Nov 19, 2026?",
+   "outcome": "NOT Atlanta",
+   "category": "Climate and Weather",
+   "url": "https://kalshi.com/markets/kxrain",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 9050.5511,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 2.4616
+   },
+   "settles_at": "2026-11-21T04:59:59+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXJLEAGUESPREAD-26NOV21GAMFAG-GAM3:no": {
+   "id": "fav:KXJLEAGUESPREAD-26NOV21GAMFAG-GAM3:no",
+   "strategy": "favorite",
+   "ticker": "KXJLEAGUESPREAD-26NOV21GAMFAG-GAM3",
+   "side": "no",
+   "legs": [],
+   "title": "Gamba wins by more than 2.5 goals?",
+   "outcome": "NOT Gamba wins by more than 2.5 goals",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxjleaguespread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 5933.9503,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 2.7116
+   },
+   "settles_at": "2026-11-21T11:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXALEAGUESPREAD-26NOV21BRRSYD-SYD3:no": {
+   "id": "fav:KXALEAGUESPREAD-26NOV21BRRSYD-SYD3:no",
+   "strategy": "favorite",
+   "ticker": "KXALEAGUESPREAD-26NOV21BRRSYD-SYD3",
+   "side": "no",
+   "legs": [],
+   "title": "Sydney FC wins by more than 2.5 goals?",
+   "outcome": "NOT Sydney FC wins by more than 2.5 goals",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxaleaguespread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 5346.7734,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 2.7811
+   },
+   "settles_at": "2026-11-21T12:40:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXNCAAFSPREAD-26NOV21BYUKU-BYU28:no": {
+   "id": "fav:KXNCAAFSPREAD-26NOV21BYUKU-BYU28:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAFSPREAD-26NOV21BYUKU-BYU28",
+   "side": "no",
+   "legs": [],
+   "title": "BYU wins by over 27.5 points",
+   "outcome": "NOT BYU wins by over 27.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaafspread",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.95,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.95,
+    "contracts": 103,
+    "cost": 97.85,
+    "fees": 2.06,
+    "total_cost": 99.91,
+    "payout": 103.0,
+    "profit": 3.09,
+    "return_pct": 3.0928,
+    "annualized_pct": 3566.6776,
+    "max_loss": 99.91,
+    "breakeven_prob": 0.97,
+    "days": 3.0866
+   },
+   "settles_at": "2026-11-21T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.95
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.95
+  },
+  "fav:KXTESTMATCH-26NOV150300BANSA-TIE:no": {
+   "id": "fav:KXTESTMATCH-26NOV150300BANSA-TIE:no",
+   "strategy": "favorite",
+   "ticker": "KXTESTMATCH-26NOV150300BANSA-TIE",
+   "side": "no",
+   "legs": [],
+   "title": "Draw/Tie wins",
+   "outcome": "NOT Draw/Tie",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxtestmatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": 1197960.5047,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 1.5866
+   },
+   "settles_at": "2026-11-20T08:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXNCAAWBTOTAL-26NOV18ETAMTXAM-133:no": {
+   "id": "fav:KXNCAAWBTOTAL-26NOV18ETAMTXAM-133:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAWBTOTAL-26NOV18ETAMTXAM-133",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 132.5 points scored",
+   "outcome": "NOT Over 132.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaawbtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.0866
+   },
+   "settles_at": "2026-11-18T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXITFWMATCH-26NOV17NEWMAR-MAR:yes": {
+   "id": "fav:KXITFWMATCH-26NOV17NEWMAR-MAR:yes",
+   "strategy": "favorite",
+   "ticker": "KXITFWMATCH-26NOV17NEWMAR-MAR",
+   "side": "yes",
+   "legs": [],
+   "title": "Violeta Martinez wins",
+   "outcome": "Violeta Martinez",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxitfwmatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.0
+   },
+   "settles_at": "2026-11-17T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18RUTGND-127:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18RUTGND-127:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18RUTGND-127",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 126.5 points scored",
+   "outcome": "Over 126.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.295
+   },
+   "settles_at": "2026-11-19T01:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXITFWMATCH-26NOV17NEWMAR-NEW:no": {
+   "id": "fav:KXITFWMATCH-26NOV17NEWMAR-NEW:no",
+   "strategy": "favorite",
+   "ticker": "KXITFWMATCH-26NOV17NEWMAR-NEW",
+   "side": "no",
+   "legs": [],
+   "title": "Welles Newman wins",
+   "outcome": "NOT Welles Newman",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxitfwmatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.0
+   },
+   "settles_at": "2026-11-17T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXATPCHALLENGERMATCH-26NOV18ARSCHI-ARS:no": {
+   "id": "fav:KXATPCHALLENGERMATCH-26NOV18ARSCHI-ARS:no",
+   "strategy": "favorite",
+   "ticker": "KXATPCHALLENGERMATCH-26NOV18ARSCHI-ARS",
+   "side": "no",
+   "legs": [],
+   "title": "Mikael Arseneault wins",
+   "outcome": "NOT Mikael Arseneault",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxatpchallengermatch",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.1561
+   },
+   "settles_at": "2026-11-18T21:40:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXTEMPCHIHS-26NOV1813-T57.99:no": {
+   "id": "fav:KXTEMPCHIHS-26NOV1813-T57.99:no",
+   "strategy": "favorite",
+   "ticker": "KXTEMPCHIHS-26NOV1813-T57.99",
+   "side": "no",
+   "legs": [],
+   "title": "Will the temp in Chicago Metro Area be above 57.99° on Nov 18, 2026 at 1pm EST?",
+   "outcome": "NOT 58° or above",
+   "category": "Climate and Weather",
+   "url": "https://kalshi.com/markets/kxtempchihs",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.0068
+   },
+   "settles_at": "2026-11-18T18:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXNCAAWBTOTAL-26NOV18ETAMTXAM-126:no": {
+   "id": "fav:KXNCAAWBTOTAL-26NOV18ETAMTXAM-126:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAWBTOTAL-26NOV18ETAMTXAM-126",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 125.5 points scored",
+   "outcome": "NOT Over 125.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaawbtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.0866
+   },
+   "settles_at": "2026-11-18T20:00:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KX2YRRATE15M-26NOV181300-00:no": {
+   "id": "fav:KX2YRRATE15M-26NOV181300-00:no",
+   "strategy": "favorite",
+   "ticker": "KX2YRRATE15M-26NOV181300-00",
+   "side": "no",
+   "legs": [],
+   "title": "2-year U.S. Treasury yield up in next 15 mins?",
+   "outcome": "NOT Target Yield: 4.78587%",
+   "category": "Financials",
+   "url": "https://kalshi.com/markets/kx2yrrate15m",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.0068
+   },
+   "settles_at": "2026-11-18T18:05:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18HOUFLA-171:no": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18HOUFLA-171:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18HOUFLA-171",
+   "side": "no",
+   "legs": [],
+   "title": "Full Game: Over 170.5 points scored",
+   "outcome": "NOT Over 170.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.2741
+   },
+   "settles_at": "2026-11-19T00:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXNCAAWBGAME-26NOV18ILLBALL-BALL:no": {
+   "id": "fav:KXNCAAWBGAME-26NOV18ILLBALL-BALL:no",
+   "strategy": "favorite",
+   "ticker": "KXNCAAWBGAME-26NOV18ILLBALL-BALL",
+   "side": "no",
+   "legs": [],
+   "title": "Ball St. wins",
+   "outcome": "NOT Ball St.",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaawbgame",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18IUINPSU-145:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18IUINPSU-145:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18IUINPSU-145",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 144.5 points scored",
+   "outcome": "Over 144.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18TNTCUNCA-138:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18TNTCUNCA-138:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18TNTCUNCA-138",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 137.5 points scored",
+   "outcome": "Over 137.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
+  },
+  "fav:KXNCAAMBTOTAL-26NOV18CHATWIN-142:yes": {
+   "id": "fav:KXNCAAMBTOTAL-26NOV18CHATWIN-142:yes",
+   "strategy": "favorite",
+   "ticker": "KXNCAAMBTOTAL-26NOV18CHATWIN-142",
+   "side": "yes",
+   "legs": [],
+   "title": "Full Game: Over 141.5 points scored",
+   "outcome": "Over 141.5 points",
+   "category": "Sports",
+   "url": "https://kalshi.com/markets/kxncaambtotal",
+   "first_seen": "2026-11-18T17:56:15+00:00",
+   "first_price": 0.94,
+   "first_bet": {
+    "stake": 100.0,
+    "price": 0.94,
+    "contracts": 104,
+    "cost": 97.76,
+    "fees": 2.08,
+    "total_cost": 99.84,
+    "payout": 104.0,
+    "profit": 4.16,
+    "return_pct": 4.1667,
+    "annualized_pct": null,
+    "max_loss": 99.84,
+    "breakeven_prob": 0.96,
+    "days": 0.3575
+   },
+   "settles_at": "2026-11-19T02:30:00+00:00",
+   "samples": [
+    [
+     "2026-11-18T17:56:15+00:00",
+     0.94
+    ]
+   ],
+   "result": null,
+   "last_seen": "2026-11-18T17:56:15+00:00",
+   "last_price": 0.94
   }
  },
  "archived": {
@@ -138293,19 +143520,19 @@
   "staked": 0.0
  },
  "summary": {
-  "tracked": 3101,
-  "resolved": 2723,
-  "wins": 2617,
-  "win_rate": 0.9611,
-  "profit": -5168.73,
-  "staked": 272142.73,
-  "roi_pct": -1.9,
+  "tracked": 3225,
+  "resolved": 2763,
+  "wins": 2652,
+  "win_rate": 0.9598,
+  "profit": -5564.41,
+  "staked": 276138.41,
+  "roi_pct": -2.02,
   "by_strategy": {
    "favorite": {
-    "resolved": 2720,
-    "wins": 2616,
-    "profit": -4975.5,
-    "staked": 271843.5
+    "resolved": 2760,
+    "wins": 2651,
+    "profit": -5371.18,
+    "staked": 275839.18
    },
    "arbitrage": {
     "resolved": 3,
@@ -138315,5 +143542,5 @@
    }
   }
  },
- "updated_at": "2026-11-18T09:00:28+00:00"
+ "updated_at": "2026-11-18T17:56:15+00:00"
 }
